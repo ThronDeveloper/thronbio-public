@@ -1,13 +1,11 @@
----
 
-<h3 align="center">Beatiful HTML Bio Website</h3>
-<p align="center"> A great bio website template that anyone can use </p>
+# thronbio.xyz Open-Source Codes
 
----
+This project is not entirely my own. Some of the licenses belong to HTML5UP.
 
+## Credits
 
-## Credits:
 Institution that designed this template [HTML5UP](https://html5up.net/).
 The website where I host this site [Vercel](https://vercel.com/).
 
-**05/07/2023**
+  
